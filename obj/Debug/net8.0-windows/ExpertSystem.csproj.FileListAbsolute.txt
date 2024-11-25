@@ -1,0 +1,16 @@
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\bin\Debug\net8.0-windows\ExpertSystem.exe
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\bin\Debug\net8.0-windows\ExpertSystem.deps.json
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\bin\Debug\net8.0-windows\ExpertSystem.runtimeconfig.json
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\bin\Debug\net8.0-windows\ExpertSystem.dll
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\bin\Debug\net8.0-windows\ExpertSystem.pdb
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.Form1.resources
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.AssemblyInfoInputs.cache
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.AssemblyInfo.cs
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.dll
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\refint\ExpertSystem.dll
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.pdb
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ExpertSystem.genruntimeconfig.cache
+C:\Users\EvgeXa\source\repos\SII\ExpertSystem\ExpertSystem\obj\Debug\net8.0-windows\ref\ExpertSystem.dll
